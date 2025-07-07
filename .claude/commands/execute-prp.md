@@ -1,12 +1,13 @@
 # Execute BASE PRP
 
-Implement a feature using using the PRP file.
+Implement a feature using the PRP file.
 
 ## PRP File: $ARGUMENTS
 
 ## Execution Process
 
 1. **Load PRP**
+
    - Read the specified PRP file
    - Understand all context and requirements
    - Follow all instructions in the PRP and extend the research if needed
@@ -14,21 +15,25 @@ Implement a feature using using the PRP file.
    - Do more web searches and codebase exploration as needed
 
 2. **ULTRATHINK**
+
    - Think hard before you execute the plan. Create a comprehensive plan addressing all requirements.
    - Break down complex tasks into smaller, manageable steps using your todos tools.
    - Use the TodoWrite tool to create and track your implementation plan.
    - Identify implementation patterns from existing code to follow.
 
 3. **Execute the plan**
+
    - Execute the PRP
    - Implement all the code
 
 4. **Validate**
+
    - Run each validation command
    - Fix any failures
    - Re-run until all pass
 
 5. **Complete**
+
    - Ensure all checklist items done
    - Run final validation suite
    - Report completion status

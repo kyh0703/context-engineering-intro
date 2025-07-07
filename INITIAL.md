@@ -4,12 +4,8 @@
 
 ## EXAMPLES:
 
-[Provide and explain examples that you have in the `examples/` folder]
+In the `examples/` folder, you can find example files that demonstrate how to use the feature. These examples should be referenced during development to ensure consistency and correctness in implementation.
 
 ## DOCUMENTATION:
 
-[List out any documentation (web pages, sources for an MCP server like Crawl4AI RAG, etc.) that will need to be referenced during development]
-
 ## OTHER CONSIDERATIONS:
-
-[Any other considerations or specific requirements - great place to include gotchas that you see AI coding assistants miss with your projects a lot]

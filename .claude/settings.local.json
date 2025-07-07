@@ -12,10 +12,6 @@
       "Bash(touch:*)",
       "Bash(cat:*)",
       "Bash(ruff check:*)",
-      "Bash(pytest:*)",
-      "Bash(python:*)",
-      "Bash(python -m pytest:*)",
-      "Bash(python3 -m pytest:*)",
       "WebFetch(domain:docs.anthropic.com)"
     ],
     "deny": []
