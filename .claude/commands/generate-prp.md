@@ -44,15 +44,14 @@ Using PRPs/templates/prp_base.md as template:
 - Include error handling strategy
 - list tasks to be completed to fulfill the PRP in the order they should be completed
 
-### Validation Gates (Must be Executable) eg for python
+### Validation Gates (Must be Executable) eg for Typescript
 
 ```bash
 # Syntax/Style
-ruff check --fix && mypy .
+pnpm run eslint --fix .
 
 # Unit Tests
-uv run pytest tests/ -v
-
+pnpm run test
 ```
 
 **_ CRITICAL AFTER YOU ARE DONE RESEARCHING AND EXPLORING THE CODEBASE BEFORE YOU START WRITING THE PRP _**

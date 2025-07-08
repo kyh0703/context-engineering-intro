@@ -14,7 +14,7 @@ Implement a feature using the PRP file.
    - Ensure you have all needed context to implement the PRP fully
    - Do more web searches and codebase exploration as needed
 
-2. **ULTRATHINK**
+2. **ULTRA THINK**
 
    - Think hard before you execute the plan. Create a comprehensive plan addressing all requirements.
    - Break down complex tasks into smaller, manageable steps using your todos tools.
